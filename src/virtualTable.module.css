@@ -7,7 +7,7 @@
 }
 .headers {
     display: grid;
-    grid-template-columns: 22% 10% 55% 10%;
+    grid-template-columns: 18% 15% 50% 10%;
     background-color: rgb(140, 240, 136);
     width: 900px;
     margin: 0 auto;
@@ -17,7 +17,7 @@
 }
 .header {
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     font-weight: bold;
 }
 .cell {
